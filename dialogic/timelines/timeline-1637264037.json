@@ -1,0 +1,65 @@
+{
+	"events": [
+		{
+			"action": "join",
+			"character": "character-1637263949.json",
+			"event_id": "dialogic_002",
+			"mirror": false,
+			"portrait": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": true
+			}
+		},
+		{
+			"action": "join",
+			"character": "character-1637263776.json",
+			"event_id": "dialogic_002",
+			"mirror": false,
+			"portrait": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			}
+		},
+		{
+			"character": "character-1637263949.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Grrrr"
+		},
+		{
+			"character": "character-1637263776.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What did you say?"
+		},
+		{
+			"character": "character-1637263949.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Grrrrr"
+		},
+		{
+			"character": "character-1637263776.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Okay. I think we understand eachother."
+		},
+		{
+			"event_id": "dialogic_022",
+			"transition_duration": 1
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.3",
+		"file": "timeline-1637264037.json",
+		"name": "conversation"
+	}
+}
